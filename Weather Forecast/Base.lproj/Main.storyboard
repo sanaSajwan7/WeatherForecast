@@ -57,12 +57,12 @@
                                 <rect key="frame" x="0.0" y="44" width="414" height="60"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ppM-Ca-ine">
-                                        <rect key="frame" x="20" y="15.5" width="35" height="28.5"/>
+                                        <rect key="frame" x="20" y="18" width="25" height="23.5"/>
                                         <constraints>
-                                            <constraint firstAttribute="width" constant="35" id="V8L-gV-8oX"/>
-                                            <constraint firstAttribute="height" constant="35" id="jpX-Z6-zs1"/>
+                                            <constraint firstAttribute="width" constant="25" id="V8L-gV-8oX"/>
+                                            <constraint firstAttribute="height" constant="30" id="jpX-Z6-zs1"/>
                                         </constraints>
-                                        <fontDescription key="fontDescription" type="system" pointSize="26"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="43"/>
                                         <color key="tintColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                                         <state key="normal" backgroundImage="multiply" catalog="system">
                                             <color key="titleColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
